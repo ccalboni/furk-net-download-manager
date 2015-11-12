@@ -1,7 +1,8 @@
 # Furk.net Download Manager (dlm.exe)
 
 Last update to this document: 2015-11-12
-Documentation is not up-to-date with code
+
+Documentation may not be up-to-date with software codebase.
 
 ## Disclaimer
 
